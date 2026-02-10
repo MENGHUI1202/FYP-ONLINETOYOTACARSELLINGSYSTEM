@@ -1,0 +1,20 @@
+[08-Feb-2026 03:16:53 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "startDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 03:16:53 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 03:16:53 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "endDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 03:16:53 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 03:16:56 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "startDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 03:16:56 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 03:16:56 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "endDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 03:16:56 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 03:37:05 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "startDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 03:37:05 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 03:37:05 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "endDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 03:37:05 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 04:08:10 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "startDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 04:08:10 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 04:08:10 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "endDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 04:08:10 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 09:54:12 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "startDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 09:54:12 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 138
+[08-Feb-2026 09:54:12 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "endDateTime" in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
+[08-Feb-2026 09:54:12 Asia/Kuala_Lumpur] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\CARRENTALSYSTEM\process_booking.php on line 139
